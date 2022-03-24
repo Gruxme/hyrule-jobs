@@ -67,7 +67,7 @@ import OrderFilter from '@/types/OrderFilter'
 		display: flex;
 	}
 	.salary img {
-		width: 30px;
+		width: 23px;
 	}
 	.salary p {
 		color: #17bf66;
